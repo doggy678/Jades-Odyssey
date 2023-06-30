@@ -18,6 +18,9 @@
         color: #dae0e6;
         display: block;
     }
+#about {
+   font-family: 'Londrina Shadow', cursive;
+}
 
 
     .sidenav a:hover {
